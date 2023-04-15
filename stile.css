@@ -1,0 +1,193 @@
+
+#colazione {
+    font-size: 40px;
+    float: left;
+    padding-left: 90px;
+    margin-top: 100px;
+    position: absolute;
+}
+#ominotop {
+    float: right;
+    padding-right: 10%;
+    padding-top: 0,8%;
+    margin-top: 7px;
+}
+#ciotola {
+    float: left;
+    padding-left: 400px;
+    padding-top: 0%;
+    margin-top: 120px;
+}
+#around {
+float: right;
+font-size: 30px;
+padding-left: 1000px;
+margin-top:430px;
+position: absolute;
+}
+#explore {
+  position: absolute;
+  text-align: left;
+  float: left;
+  padding-left: 0%;
+  padding-top: 700px;
+  font-size: 30px;
+  margin-left: 19%;
+}
+#countries {
+    position: absolute;
+    text-align: left;
+    float: left;
+    padding-left:0%;
+    padding-top:700px;
+    font-size: 30px;
+    margin-left: 54%;
+    color: orange;
+}
+#cerchio {
+position: absolute;
+float: left;
+padding-left: 200px;
+margin-top: 900px;
+}
+#pancake {
+position: absolute;
+float: left;
+padding-left: 310px;
+margin-top: 830px;
+}
+#ramen {
+ position: absolute;
+ float: left;
+ padding-left: 560px;
+ margin-top: 950px;
+}
+#caffè {
+ position: absolute;
+ float: left;
+ padding-left: 120px;
+ margin-top: 1050px;
+}
+#cornetto {
+position: absolute;
+float: left;
+padding-left: 310px;
+margin-top: 1270px;
+}
+.testouno {
+position: static;
+text-align: center;
+float: right;
+margin-right: 300px;
+padding-top: 800px;
+font-size: 25px;
+width: 200px;
+height:500px;
+}
+#dolcesalato {
+ position: absolute;
+ text-align: left;
+ float: left;
+ padding-left: 0%;
+ padding-top: 1600px;
+ font-size: 40px;
+ margin-left: 26%;
+}
+#piattosalato {
+position: absolute;
+float: left;
+padding-left: 200px;
+margin-top: 1700px;
+}
+#piattodolce {
+ position: absolute;
+ float: left;
+ padding-left: 280px;
+ margin-top: 2050px;
+}
+#english {
+position: static; 
+text-align: left;
+float:right; 
+padding-right:50px;
+padding-top: 1170px;
+font-size: 30px;
+width: 270px;
+height:800;
+}
+.accatre{
+    position: absolute;
+    color: orange;
+    font-size: 20px;
+    text-align: right;
+    float: right;
+    padding-left: 1390px;
+    margin-top: 7px;
+}
+#italian {
+    position: static; 
+    float: left;
+    text-align: left; 
+    margin-left: 755px;
+    padding-top: 280px;
+    font-size: 30px;
+    width: 270px;
+    height:800;
+    }
+    #frecciauno {
+    position: absolute;
+    float: left; 
+    margin-top: 1840px;
+    padding-top: 10px;
+    padding-left: 70%;
+    }
+    #frecciadue {
+        position: absolute;
+        float: left; 
+        margin-top: 2250px;
+        padding-top: 10px;
+        padding-left: 70%;
+        }
+        #linkuno {
+        position: absolute;
+        float: left; 
+        margin-top: 1863px;
+        padding-top: 10px;
+        padding-left: 77%;
+        }
+        #linkdue {
+        position: absolute;
+        float: left; 
+        margin-top: 2272px;
+        padding-top: 10px;
+        padding-left: 77%;    
+        }
+       *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+       }
+       #whatsapp {
+        position: absolute;
+        float: left;
+        margin-top: 2520px;
+        padding-left: 1250px;
+       }
+       #fb {
+        position: absolute;
+        float: left;
+        margin-top: 2528px;
+        padding-left: 1340px;
+       }
+       #twitter {
+        position: absolute;
+        float: left;
+        margin-top: 2533px;
+        padding-left: 1430px;
+       }
+       #barraorange {
+        position: absolute;
+        float: left;
+        margin-top: 2510px;
+        padding-left: 0px;
+       }
